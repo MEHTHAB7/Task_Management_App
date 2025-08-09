@@ -27,7 +27,7 @@
 + Password: 123
 ### Default Employee User:
 
-+ Username: john 
++ Username: adhithyan 
 + Password: 123
 
 ## Contributing
